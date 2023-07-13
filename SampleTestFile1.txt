@@ -4,3 +4,4 @@ Hello new text
 Revert 1
 This is comparison lecture
 
+Stash Change in File1 

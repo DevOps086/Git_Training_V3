@@ -1,3 +1,4 @@
 This is Sample file 2
 Revert 2
 This is comparison lecture for File 2
+Stash Change in File2 
