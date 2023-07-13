@@ -1,2 +1,6 @@
 This is Sample file 1
+
 Hello new text
+Revert 1
+This is comparison lecture
+
